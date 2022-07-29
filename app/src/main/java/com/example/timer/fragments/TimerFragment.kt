@@ -8,6 +8,8 @@ import com.example.timer.databinding.FragmentTimerBinding
 
 class TimerFragment : Fragment(R.layout.fragment_timer) {
 
+
+
     private lateinit var binding: FragmentTimerBinding
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
         super.onViewCreated(view, savedInstanceState)

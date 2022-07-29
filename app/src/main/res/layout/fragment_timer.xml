@@ -3,6 +3,16 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
     tools:context=".fragments.TimerFragment">
 
+    <androidx.appcompat.widget.AppCompatTextView
+        android:textSize="@dimen/spacing_30"
+        android:layout_margin="@dimen/spacing_8"
+        android:text="@string/app_name"
+        android:textColor="@color/dark_blue_grey"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
 </androidx.constraintlayout.widget.ConstraintLayout>
