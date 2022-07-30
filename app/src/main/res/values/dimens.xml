@@ -11,15 +11,15 @@
     <dimen name="text_size_44">44sp</dimen>
     <dimen name="text_size_48">48sp</dimen>
     <dimen name="text_size_52">52sp</dimen>
-    <dimen name="spacing_2">2sp</dimen>
-    <dimen name="spacing_4">4sp</dimen>
-    <dimen name="spacing_6">6sp</dimen>
-    <dimen name="spacing_8">8sp</dimen>
-    <dimen name="spacing_12">12sp</dimen>
-    <dimen name="spacing_16">16sp</dimen>
-    <dimen name="spacing_20">20sp</dimen>
-    <dimen name="spacing_24">24sp</dimen>
-    <dimen name="spacing_30">30sp</dimen>
-    <dimen name="spacing_40">40sp</dimen>
-    <dimen name="spacing_50">50sp</dimen>
+    <dimen name="spacing_2">2dp</dimen>
+    <dimen name="spacing_4">4dp</dimen>
+    <dimen name="spacing_6">6dp</dimen>
+    <dimen name="spacing_8">8dp</dimen>
+    <dimen name="spacing_12">12dp</dimen>
+    <dimen name="spacing_16">16dp</dimen>
+    <dimen name="spacing_20">20dp</dimen>
+    <dimen name="spacing_24">24dp</dimen>
+    <dimen name="spacing_30">30dp</dimen>
+    <dimen name="spacing_40">40dp</dimen>
+    <dimen name="spacing_50">50dp</dimen>
 </resources>
